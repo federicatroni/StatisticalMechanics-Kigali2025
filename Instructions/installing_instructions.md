@@ -82,12 +82,12 @@ jupyter notebook
 ```
 This will open a Jupyter interface in your default web browser.
 
-### Using Anaconda Navigator
+##### Using Anaconda Navigator
 
 1. Open **Anaconda Navigator** (search for it in the Windows Start Menu).
 2. Click **"Launch"** under Jupyter Notebook.
 
-### Using Command Prompt or PowerShell (better for MacOS users)
+##### Using Command Prompt or PowerShell (better for MacOS users)
 
 1. Open **Command Prompt (cmd)** or **PowerShell** (`Win + R`, type `cmd` or `powershell`, and hit Enter).
 2. Navigate to your desired working directory:
@@ -102,6 +102,6 @@ This will open a Jupyter interface in your default web browser.
    jupyter notebook
    ```
 
-### Using Windows Start Menu
+##### Using Windows Start Menu
 
 If Jupyter Notebook is installed system-wide, you can also search for **"Jupyter Notebook"** in the Windows Start Menu and open it directly.
